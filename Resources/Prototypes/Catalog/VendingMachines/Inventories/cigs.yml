@@ -24,6 +24,8 @@
     GroundTobacco: 3
     CigarGold: 2
     Igniter: 1
+    CigPackDarkGreen: 2 # _CD
+    CigPackUnmarked: 4 # _CD
   emaggedInventory:
     CigarPlatinumCase: 1 # Frontier
     CigPackSyndicate: 1

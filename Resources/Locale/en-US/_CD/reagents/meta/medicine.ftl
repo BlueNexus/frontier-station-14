@@ -27,3 +27,5 @@ reagent-desc-soretizone = A fairly effective painkiller developed to treat chron
 
 reagent-name-agonolexyne = Agonolexyne
 reagent-desc-agonolexyne = An incredibly potent and fast acting opioid invented to speed up the application of painkillers during surgery. Stops you from feeling pain (or really anything at all). Interacts poorly with alcohol. Known to be very addictive. Overdose may relax the lungs to the point of non-function.
+reagent-name-dynamoxine = Dynamoxine
+reagent-desc-dynamoxine = An attempt at synthizing a stimulant for extended engagements, the Dynamoxine project was shelved after Donk Co. came out with Hyperzine. Overdoses will cause heart and lung spasms. Reacts violently with Epinephrine.

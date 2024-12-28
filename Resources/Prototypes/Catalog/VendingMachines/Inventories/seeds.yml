@@ -49,5 +49,6 @@
   contrabandInventory:
     TobaccoSeeds: 2
     # FoodSnackSemki: 2 # Frontier
+    MindleafSeeds: 1 # _CD
   emaggedInventory:
     FlyAmanitaSeeds: 1
